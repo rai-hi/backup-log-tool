@@ -1,0 +1,6 @@
+ID  Created at  Status Code  ErrorDescription
+a622  2019-07-05 00:08:03 +0000  Removed 200
+a623  2019-07-10 00:08:04 +0000  Removed 200
+a181  2019-07-15 00:08:01 +0000  Error 500  "{error: 'invalid ID' }"
+a683  2019-07-20 00:08:04 +0000  Removed 200
+a182  2019-07-25 00:08:05 +0000  Error 404  "{error: 'not found' }"
